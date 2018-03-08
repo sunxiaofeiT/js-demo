@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+}
+#mainBox{
+    height: 50em;
+    text-align: center;
+}
+#topBox{
+    height: 3.5em;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border: 0;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+#topBox #logo {
+    font-size: 2.5em;
+    float: left;
+}
+#topBox #auth {
+    padding-top: 2.2em;
+    padding-left: 30px;
+}
+#outBox {
+    border: 5px solid rgb(51,133,255);
+    border-radius: 6px;
+    margin-top: 5em;
+    width: 42.1em;
+    height: 42.1em;
+    float: left;
+}
+.imgBox {
+    width: 14em;
+    height: 14em;
+    float: left;
+}
+.img {
+    width: 14em;
+    height: 14em;
+    border: 1px solid black;
+}
+#relatedInfo {
+    float: left;
+    margin-top: 5em;
+    width: 22em;
+    height: 42em;
+    border: 0;
+    position: relative;
+}
+#fullImg {
+    width: 15em;
+    height: 15em;
+    position: absolute;
+    left: 5em;
+    top: 1px;
+}
+#fullImg img{
+    width: 15em;
+    height: 15em;
+    border: 1px solid rgb(51,133,255);
+    border-radius: 5px;
+}
+#timeDiv {
+    position: absolute;
+    left: 5em;
+    top: 23em;
+}
+#timeDiv img{
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+#timeText {
+    float: left;
+    font-size: 25px;
+    color:  rgb(112,191,234);
+    padding-top: 15px;
+    padding-left: 10px;
+}
+#relatedButton {
+    margin-top: 5em;
+}
+#relatedButton  button {
+    width: 18em;
+    height: 3em;
+    border-radius: 8px;
+    background-color: rgb(51,133,255);
+    color: white;
+    border: 0;
+}
+#refresh {
+    position: absolute;
+    bottom: 5em;;
+    left: 6em;
+    cursor: pointer;
+}
+#homing {
+    position: absolute;
+    bottom: 0px;
+    left: 6em;
+    cursor: pointer;
+}
