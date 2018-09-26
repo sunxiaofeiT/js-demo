@@ -1,6 +1,6 @@
-# 两个可以说是 JS 的 demo 小网页，瀑布流图片展示、拼图小游戏
+# 瀑布流图片 && 拼图游戏
 
-## demo链接
+## 项目地址
 
 - <a href="http://pw.newfiworld.xyz">链接瀑布流图片展示</a>
 - <a href="http://pu.newfiworld.xyz">拼图小游戏</a>
